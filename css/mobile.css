@@ -11,7 +11,7 @@
   font-weight: 600;
   color: white;
 }
-@media screen and (min-height: 500px) {
+@media (min-height: 600px) {
   .bigScreen {
     display: none;
   }
