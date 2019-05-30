@@ -11,8 +11,8 @@
   font-weight: 600;
   color: white;
 }
-@media screen and (min-height: 800px) {
+@media screen and (min-height: 500px) {
   .bigScreen {
-    display: flex;
+    display: none;
   }
 }
